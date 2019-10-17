@@ -1,26 +1,26 @@
 [
   {
-    "name": "Whiskers",
+    "name": "Demon Hunter",
     "species" : "cat",
     "foods": {
-      "likes": ["celery", "strawberries"],
-      "dislikes": ["carrots"]
+      "likes": ["tuna", "catnip"],
+      "dislikes": ["ham", "zucchini"]
     }
   },
   {
-    "name": "Woof",
+    "name": "Barky",
     "species" : "dog",
     "foods": {
-      "likes": ["dog food"],
-      "dislikes": ["cat food"]
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
     }
   },
   {
-    "name": "Fluffy",
+    "name": "Purrpaws",
     "species" : "cat",
     "foods": {
-      "likes": ["canned food"],
-      "dislikes": ["dry food"]
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
     }
   }
 ]
