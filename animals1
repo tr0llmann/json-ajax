@@ -1,7 +1,7 @@
 [
   {
-    "name": "Demon Hunter",
-    "species" : "cat",
+    "name": "Zara",
+    "species" : "demon cat",
     "foods": {
       "likes": ["tuna", "catnip"],
       "dislikes": ["ham", "zucchini"]
